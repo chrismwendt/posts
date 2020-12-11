@@ -1,8 +1,5 @@
 ---
-layout: post
 title: Parsing chromedriver logs in Haskell
-categories:
-- blog
 ---
 
 chromedriver (the tool for programmatic interaction with Chrome) doesn't have an output format amenable to analysis, so I wrote a Haskell program to convert it to JSON [chromedriver-logs](https://github.com/chrismwendt/chromedriver-logs), which:

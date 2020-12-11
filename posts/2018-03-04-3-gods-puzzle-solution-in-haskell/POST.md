@@ -1,8 +1,5 @@
 ---
-layout: post
 title: 3 gods puzzle solution in Haskell
-categories:
-- blog
 ---
 
 # The Puzzle
