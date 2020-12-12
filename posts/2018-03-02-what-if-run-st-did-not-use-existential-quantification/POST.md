@@ -1,5 +1,6 @@
 ---
 title: What if runST didn't use existential quantification?
+published: true
 ---
 
 Here's the [`ST`](https://hackage.haskell.org/package/base-4.14.0.0/docs/Control-Monad-ST.html#t:ST) API:

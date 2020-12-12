@@ -1,5 +1,6 @@
 ---
 title: Alternative Applicative and Monad formulations
+published: true
 ---
 
 There's a little known alternative class definitions of Applicative and Monad that I haven't seen presented in an article before, so I thought I'd share:

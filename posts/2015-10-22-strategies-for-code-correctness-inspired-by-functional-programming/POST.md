@@ -1,5 +1,6 @@
 ---
 title: Strategies for code correctness inspired by functional programming
+published: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GlMX_tlisF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

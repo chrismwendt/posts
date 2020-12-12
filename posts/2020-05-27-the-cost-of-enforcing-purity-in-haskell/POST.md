@@ -1,5 +1,6 @@
 ---
 title: The cost of enforcing purity in Haskell
+published: true
 ---
 
 ["Effect Tracking Is Commercially Worthless"](https://degoes.net/articles/no-effect-tracking) argues that enforcing purity is not commercially valuable, and this struck a chord with with me because I had already recently started to question the usefulness of enforcing purity in the context of a commercial project [CodeWyng](http://codewyng.io/) that I'm working on.

@@ -1,5 +1,6 @@
 ---
 title: Auto import for Haskell in VS Code
+published: true
 ---
 
 Today, I hacked together auto imports for Haskell in VS Code: https://github.com/chrismwendt/Auto-Import based on https://github.com/soates/Auto-Import (which currently only supports TypeScript). The code is very rough, and there is a lot of room for improvement. Currently, it only searches for variables on Hoogle.

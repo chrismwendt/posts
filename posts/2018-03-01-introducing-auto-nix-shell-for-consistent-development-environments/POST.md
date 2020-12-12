@@ -1,5 +1,6 @@
 ---
 title: Introducing auto-nix-shell for consistent development environments
+published: true
 ---
 
 <script src="https://asciinema.org/a/dFFhCmPULkqtIPLN8PrBjnjK0.js" id="asciicast-dFFhCmPULkqtIPLN8PrBjnjK0" async></script>
