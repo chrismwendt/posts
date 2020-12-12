@@ -1,6 +1,7 @@
 ---
 title: 3 gods puzzle solution in Haskell
 published: true
+image: https://i.imgur.com/11DYbM0.png
 ---
 
 # The Puzzle
