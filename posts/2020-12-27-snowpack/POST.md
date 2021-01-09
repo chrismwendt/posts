@@ -60,6 +60,4 @@ Because I don't know of a Snowpack replacement for Webpack's [`DefinePlugin`](ht
 +const PRODUCTION = window.location.hostname === 'codebook.page'
 ```
 
-**Update:** https://www.skypack.dev/view/snowpack-plugin-build-info will replace occurrences of `%BUILD_ENV%` with the environment.
-
 After making those changes, everything just worked 🎉 Check out Snowpack at https://www.snowpack.dev/
